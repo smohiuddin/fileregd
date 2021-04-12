@@ -1,7 +1,7 @@
 theme: jekyll-theme-cayman
 github: 
-  project_title: FileRegD
-  project_tagline: File a RegD for your startup or VC/Real Estate fund. Starting at $999 up to $5K. 
+  project_title: File RegD
+  project_tagline: For your startup or VC/Real estate fund. $5K flat fee.
   is_project_page: false
 google_analytics: UA-125899912-1
 plugins:
